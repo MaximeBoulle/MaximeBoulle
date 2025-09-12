@@ -6,11 +6,11 @@
 
 <img align= "right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **my MasterCamp Projet**
+- 🔭 I’m currently working on **finding an end-of-study internship**
 
 - 🌱 I’m currently learning **React, Angular and some other frameworks**
 
-- 👯 I’m looking to intership for **5 months as a software engineer (04/11 - 04/04)**
+- 👯 I’m looking to intership for **6 months as a software engineer (09/03/2026 - 18/09/2026)**
 
 - 📫 How to reach me **maxime.boulle@efrei.net**
 
